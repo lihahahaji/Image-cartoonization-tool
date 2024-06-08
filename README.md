@@ -1,4 +1,5 @@
 项目结构：
+```
 Bilateral Filter
 ├─ doc_src -- 课程报告 latex 源码
 ├─ Experimental_env  -- 实验环境
@@ -22,7 +23,7 @@ Bilateral Filter
    ├─ cartoonize.py -- 卡通化方法
    ├─ edge_detection.py -- 边缘检测方法
    └─ main.py -- 主函数，程序入口
-
+```
 运行步骤：
 1. 设置好输入图片
 2. 运行 main.py
